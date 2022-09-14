@@ -1,0 +1,4 @@
+frame = script.Parent
+frame.Draggable = true
+frame.Selectable = true
+frame.Active = true
